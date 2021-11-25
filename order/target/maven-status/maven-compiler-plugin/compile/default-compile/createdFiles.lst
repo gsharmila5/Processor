@@ -1,0 +1,8 @@
+com\processing\order\model\Order.class
+com\processing\order\repository\MemberShipRepository.class
+com\processing\order\model\MemberShip.class
+com\processing\order\controller\Controller.class
+com\processing\order\model\Shipping.class
+com\processing\order\repository\OrderRepository.class
+com\processing\order\repository\ShippingRepository.class
+com\processing\order\OrderApplication.class
